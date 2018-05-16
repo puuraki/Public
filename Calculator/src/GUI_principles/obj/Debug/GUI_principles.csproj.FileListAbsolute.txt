@@ -1,0 +1,18 @@
+D:\Koulu\Platform Computing\GUI_principles\GUI_principles\bin\Debug\GUI_principles.exe.config
+D:\Koulu\Platform Computing\GUI_principles\GUI_principles\obj\Debug\GUI_principles.csprojResolveAssemblyReference.cache
+D:\Koulu\Platform Computing\GUI_principles\GUI_principles\obj\Debug\GUI_principles.Form1.resources
+D:\Koulu\Platform Computing\GUI_principles\GUI_principles\obj\Debug\GUI_principles.Properties.Resources.resources
+D:\Koulu\Platform Computing\GUI_principles\GUI_principles\obj\Debug\GUI_principles.csproj.GenerateResource.Cache
+D:\Koulu\Platform Computing\GUI_principles\GUI_principles\bin\Debug\GUI_principles.exe
+D:\Koulu\Platform Computing\GUI_principles\GUI_principles\bin\Debug\GUI_principles.pdb
+D:\Koulu\Platform Computing\GUI_principles\GUI_principles\obj\Debug\GUI_principles.exe
+D:\Koulu\Platform Computing\GUI_principles\GUI_principles\obj\Debug\GUI_principles.pdb
+D:\Programming projects\portfolio\Portfolio\projects\GUI principles\src\GUI_principles\GUI_principles\bin\Debug\GUI_principles.exe.config
+D:\Programming projects\portfolio\Portfolio\projects\GUI principles\src\GUI_principles\GUI_principles\obj\Debug\GUI_principles.exe
+D:\Programming projects\portfolio\Portfolio\projects\GUI principles\src\GUI_principles\GUI_principles\obj\Debug\GUI_principles.pdb
+D:\Programming projects\portfolio\Portfolio\projects\GUI principles\src\GUI_principles\GUI_principles\bin\Debug\GUI_principles.exe
+D:\Programming projects\portfolio\Portfolio\projects\GUI principles\src\GUI_principles\GUI_principles\bin\Debug\GUI_principles.pdb
+D:\Programming projects\portfolio\Portfolio\projects\GUI principles\src\GUI_principles\GUI_principles\obj\Debug\GUI_principles.csprojResolveAssemblyReference.cache
+D:\Programming projects\portfolio\Portfolio\projects\GUI principles\src\GUI_principles\GUI_principles\obj\Debug\GUI_principles.Form1.resources
+D:\Programming projects\portfolio\Portfolio\projects\GUI principles\src\GUI_principles\GUI_principles\obj\Debug\GUI_principles.Properties.Resources.resources
+D:\Programming projects\portfolio\Portfolio\projects\GUI principles\src\GUI_principles\GUI_principles\obj\Debug\GUI_principles.csproj.GenerateResource.Cache

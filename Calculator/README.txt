@@ -1,0 +1,2 @@
+C#
+Calculator made in Visual Studio 2015 in C# and modeled after Windows calculator. The program can do calculations in both decimal and hexadecimal systems and it also outputs a log file with timestamps and events in the base folder of the .exe file. The log is written in a separate thread from the main application.
