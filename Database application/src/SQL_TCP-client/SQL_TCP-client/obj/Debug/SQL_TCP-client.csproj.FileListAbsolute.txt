@@ -1,0 +1,27 @@
+D:\Koulu\Distributed Systems\SQL-server_client\SQL_TCP-client\SQL_TCP-client\bin\Debug\SQL_TCP-client.exe.config
+D:\Koulu\Distributed Systems\SQL-server_client\SQL_TCP-client\SQL_TCP-client\bin\Debug\SQL_TCP-client.exe
+D:\Koulu\Distributed Systems\SQL-server_client\SQL_TCP-client\SQL_TCP-client\bin\Debug\SQL_TCP-client.pdb
+D:\Koulu\Distributed Systems\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.csprojResolveAssemblyReference.cache
+D:\Koulu\Distributed Systems\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP_client.Form1.resources
+D:\Koulu\Distributed Systems\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP_client.Properties.Resources.resources
+D:\Koulu\Distributed Systems\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.csproj.GenerateResource.Cache
+D:\Koulu\Distributed Systems\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.exe
+D:\Koulu\Distributed Systems\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.pdb
+D:\Koulu\Distributed Systems\Database application\SQL-server_client\SQL_TCP-client\SQL_TCP-client\bin\Debug\SQL_TCP-client.exe.config
+D:\Koulu\Distributed Systems\Database application\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.exe
+D:\Koulu\Distributed Systems\Database application\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.pdb
+D:\Koulu\Distributed Systems\Database application\SQL-server_client\SQL_TCP-client\SQL_TCP-client\bin\Debug\SQL_TCP-client.exe
+D:\Koulu\Distributed Systems\Database application\SQL-server_client\SQL_TCP-client\SQL_TCP-client\bin\Debug\SQL_TCP-client.pdb
+D:\Koulu\Distributed Systems\Database application\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.csprojResolveAssemblyReference.cache
+D:\Koulu\Distributed Systems\Database application\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP_client.Form1.resources
+D:\Koulu\Distributed Systems\Database application\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP_client.Properties.Resources.resources
+D:\Koulu\Distributed Systems\Database application\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.csproj.GenerateResource.Cache
+D:\Programming projects\portfolio\Portfolio\projects\Database application\src\SQL-server_client\SQL_TCP-client\SQL_TCP-client\bin\Debug\SQL_TCP-client.exe.config
+D:\Programming projects\portfolio\Portfolio\projects\Database application\src\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.exe
+D:\Programming projects\portfolio\Portfolio\projects\Database application\src\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.pdb
+D:\Programming projects\portfolio\Portfolio\projects\Database application\src\SQL-server_client\SQL_TCP-client\SQL_TCP-client\bin\Debug\SQL_TCP-client.exe
+D:\Programming projects\portfolio\Portfolio\projects\Database application\src\SQL-server_client\SQL_TCP-client\SQL_TCP-client\bin\Debug\SQL_TCP-client.pdb
+D:\Programming projects\portfolio\Portfolio\projects\Database application\src\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.csprojResolveAssemblyReference.cache
+D:\Programming projects\portfolio\Portfolio\projects\Database application\src\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP_client.Form1.resources
+D:\Programming projects\portfolio\Portfolio\projects\Database application\src\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP_client.Properties.Resources.resources
+D:\Programming projects\portfolio\Portfolio\projects\Database application\src\SQL-server_client\SQL_TCP-client\SQL_TCP-client\obj\Debug\SQL_TCP-client.csproj.GenerateResource.Cache

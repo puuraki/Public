@@ -1,0 +1,5 @@
+C#, C++
+This project consists of two programs, a client and a server. The server was programmed in C++ and it works as a middleman between the client, which was made in C#, and the SQL database.
+In its current form it is possible for the user to log in to database of their choosing and view the tables in it. Editing is currently not supported though and the program doesn't work with bigger tables due to limited character buffer used to transfer data.
+The server listens to TCP port 4360 by default, but it can be changed in the SQL-server.cpp source file. For the client the connection IP needs to be changed in the source file (Program.cs) to match the server's IP (same with the port if it has been changed).
+First start the server and then the client, which then requires the user to fill in the SQL server address, database, username and password. After connecting just click "Show tables" to see all the tables in the database and double clicking the tables will open them. Disconnecting from the server in the current version will unfortunately also close the server.
