@@ -1,0 +1,2 @@
+JavaScript
+A simple JavaScript game where the player needs to move the cursor over circles, or targets, before they disappear. The game will get faster each time the player scores until reaching total of 39 points, after which the speed stays constant.
