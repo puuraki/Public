@@ -1,0 +1,6 @@
+D:\Koulu\Distributed Systems\http-server\http-server\bin\Debug\http-server.exe.config
+D:\Koulu\Distributed Systems\http-server\http-server\bin\Debug\http-server.exe
+D:\Koulu\Distributed Systems\http-server\http-server\bin\Debug\http-server.pdb
+D:\Koulu\Distributed Systems\http-server\http-server\obj\Debug\http-server.csprojResolveAssemblyReference.cache
+D:\Koulu\Distributed Systems\http-server\http-server\obj\Debug\http-server.exe
+D:\Koulu\Distributed Systems\http-server\http-server\obj\Debug\http-server.pdb
