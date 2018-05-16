@@ -1,0 +1,2 @@
+JavaScript, PHP
+This shoutbox was part of an assignment with purpose of using AJAX in any kind of web application. All the messages are stored in a .json file with timestamp, username and contents of the message.

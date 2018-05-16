@@ -1,0 +1,45 @@
+body {
+	font-family: Arial;
+}
+ul {
+	list-style-type: none;
+	padding:0; 
+	margin: 5px 0 0 5px;
+}
+#shoutbox_container {
+	width: 500px;
+	height: 546px;
+	padding: 10px;
+	margin: 0 auto 0 auto;
+	background-color: #C0C0C0;
+	border: solid black 1px;
+}
+#message_container {
+	height: 453px;
+	overflow-y: scroll;
+	background-color: #E8E8E8;
+	border: solid black 1px;
+}
+#inputs {
+	box-sizing: content-box;
+}
+form {                   
+	margin: 2px 0 0 0;
+}
+#username {
+	width: 132px;
+	margin: 0 0 5px 0;
+}
+#message {
+	width: 300px;
+	margin: 0 0 0 0;
+}
+#send_button {
+	width: 50px;
+}
+.message_time {
+	color:red;
+}
+.shoutbox_username {
+	font-weight:bold; color:blue;
+}
