@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Koulu/Tutkimustoiminta/projekti/infinite_cave_generator/infinite_cave_generator/Content/debug.spritefont</SourceFile>
+  <SourceTime>2017-03-08T21:23:38.5087786+02:00</SourceTime>
+  <DestFile>D:/Koulu/Tutkimustoiminta/projekti/infinite_cave_generator/infinite_cave_generator/Content/bin/Windows/debug.xnb</DestFile>
+  <DestTime>2017-03-08T21:23:41.1474251+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-01-05T14:18:06+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-01-05T14:18:06+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
