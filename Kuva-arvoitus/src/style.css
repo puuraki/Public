@@ -1,0 +1,96 @@
+.writeHTML {
+	height: 500px;
+	width: 98%;
+}
+.writeHTML #header {
+	border: solid 2px black;
+	height: 100px;
+	margin: 0px;
+	text-align: center;
+}
+	
+.writeHTML #menu {
+	width: 20%;
+	height: 500px;
+	float: left;
+	border: solid 2px red;
+	padding-left: 20px;
+}
+		
+.writeHTML #content {
+	height: 500px;
+	border: solid 2px blue;
+	text-align: center;
+}
+
+.writeHTML #footer {
+	clear: left;
+	height: 50px;
+	border: solid 2px green;
+	text-align: center;
+}
+
+
+.targetGame #playArea { 
+	position: relative;
+	width: 700px; 
+	height: 700px;
+	background-color: yellowgreen;
+	border-style: solid;
+}
+
+.targetGame #target { 
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 44px; 
+	height: 44px;
+	background-color: beige;
+	border-radius: 50px;
+	border-width: 3px;
+	border-style: solid;
+}
+
+.targetGame ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.targetGame li, .targetGame p {
+    display: inline;
+    margin-right: 25px;
+}
+
+.hiddenPic #playArea {
+	position: relative;
+}
+
+.hiddenPic .square { 
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: beige;
+	border-width: 1px;
+	border-style: solid;
+}
+
+
+.ads #adArea {
+	width: 728px;
+	height: 90px;
+}
+
+
+.memoryGame #playArea{
+	position: relative;
+}
+
+.memoryGame .card{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: beige;
+	border-width: 1px;
+	border-style: solid;
+}

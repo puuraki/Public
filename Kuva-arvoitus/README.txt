@@ -1,0 +1,2 @@
+JavaScript
+The idea was to make a JavaScript game where the player is supposed to uncover the hidden picture behind tiles. As an addition to the game, a picture was added as a background to each tile, which as whole makes the initial picture shown.
