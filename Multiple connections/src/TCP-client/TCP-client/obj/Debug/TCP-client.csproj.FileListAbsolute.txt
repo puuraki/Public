@@ -1,0 +1,17 @@
+K:\Distributed Systems\TCP-client\TCP-client\bin\Debug\TCP-client.exe.config
+K:\Distributed Systems\TCP-client\TCP-client\bin\Debug\TCP-client.exe
+K:\Distributed Systems\TCP-client\TCP-client\bin\Debug\TCP-client.pdb
+K:\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP_client.Form1.resources
+K:\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP_client.Properties.Resources.resources
+K:\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP-client.csproj.GenerateResource.Cache
+K:\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP-client.exe
+K:\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP-client.pdb
+D:\Koulu\Distributed Systems\TCP-client\TCP-client\bin\Debug\TCP-client.exe.config
+D:\Koulu\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP-client.exe
+D:\Koulu\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP-client.pdb
+D:\Koulu\Distributed Systems\TCP-client\TCP-client\bin\Debug\TCP-client.exe
+D:\Koulu\Distributed Systems\TCP-client\TCP-client\bin\Debug\TCP-client.pdb
+D:\Koulu\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP-client.csprojResolveAssemblyReference.cache
+D:\Koulu\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP_client.Form1.resources
+D:\Koulu\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP_client.Properties.Resources.resources
+D:\Koulu\Distributed Systems\TCP-client\TCP-client\obj\Debug\TCP-client.csproj.GenerateResource.Cache
