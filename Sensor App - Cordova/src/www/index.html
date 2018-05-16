@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBeXDVmioJSm5WhF0qjhza-ByoCeiRK_go"></script>
+        <meta http-equiv="Content-Security-Policy" 
+             content="default-src 'self' data: gap: 
+                    https://ssl.gstatic.com https://fonts.gstatic.com/;
+                    script-src 'self' 'unsafe-inline' 'unsafe-eval' 
+                    https://*.gstatic.com https://*.googleapis.com;
+                    style-src 'self' 'unsafe-inline'
+                    *;
+                    media-src 
+                    *;
+                    img-src 'self' 'unsafe-inline' 'unsafe-eval'
+                    *;
+                    ">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link rel="stylesheet" type="text/css" href="js/libs/css/bootstrap.min.css">
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="container">
+            <h2> Sensor App</h2>
+            <ul class="nav nav-tabs">
+                <li class="active"><a data-toggle="tab" href="#home-display">Home</a></li>
+                <li><a data-toggle="tab" href="#compass-display">Compass</a></li>
+                <li><a data-toggle="tab" href="#gps-display">GPS</a></li>
+                <li><a data-toggle="tab" href="#map-display">Map</a></li>
+            </ul>
+            
+            <div class="tab-content">
+                
+                <!-- HOME DISPLAY TAB STARTS HERE -->
+                <div id="home-display" class="tab-pane fade in active">
+                    <h4 class="text-left">Home</h4>
+                    <p>This app shows operation of different 
+                        sensors of the smart phone. 
+                        You can display sensor data by clicking 
+                        the tab on the top of this page.</p>
+                    <h4 class="text-center">Device data</h4>
+                    
+                    <!-- Table containing device data -->
+                    <table class="col-xs-12 table-striped table-condensed">
+                        <tr>
+                            <td class="col-xs-6 text-left thick">Cordova</td>
+                            <td class="col-xs-6 text-center thick" id="device-cordova">Value</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-6 text-left thick">Model</td>
+                            <td class="col-xs-6 text-center thick" id="device-model">Value</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-6 text-left thick">Platform</td>
+                            <td class="col-xs-6 text-center thick" id="device-platform">Value</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-6 text-left thick">UUID</td>
+                            <td class="col-xs-6 text-center thick" id="device-uuid">Value</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-6 text-left thick">Version</td>
+                            <td class="col-xs-6 text-center thick" id="device-version">Value</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-6 text-left thick">Manufacturer</td>
+                            <td class="col-xs-6 text-center thick" id="device-manufacturer">Value</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-6 text-left thick">Serial</td>
+                            <td class="col-xs-6 text-center thick" id="device-serial">Value</td>
+                        </tr>
+                    </table>
+                </div>
+                
+                <!-- COMPASS DISPLAY TAB STARTS HERE -->
+                <div id="compass-display" class="tab-pane fade">
+                   <h4 class="text-center">Compass</h4>
+                   
+                   <!-- Table containing compass data -->
+                   <table class="col-xs-12 table-striped table-condensed">
+                        <tr>
+                            <td class="col-xs-4 text-center thick">Item</td>
+                            <td class="col-xs-4 text-center thick">Value</td>
+                            <td class="col-xs-4 text-center thick">Unit</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Magnetic Heading</td>
+                            <td class="col-xs-4 text-center" id="compass-magnetic-heading">Value</td>
+                            <td class="col-xs-4 text-center">°</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">True Heading</td>
+                            <td class="col-xs-4 text-center" id="compass-true-heading">Value</td>
+                            <td class="col-xs-4 text-center">°</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Accuracy</td>
+                            <td class="col-xs-4 text-center" id="compass-accuracy">Value</td>
+                            <td class="col-xs-4 text-center">°</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Counter</td>
+                            <td class="col-xs-4 text-center" id="compass-counter">Value</td>
+                            <td class="col-xs-4 text-center"></td>
+                        </tr>
+                    </table>
+                </div>
+                
+                <!-- GPS DISPLAY TAB STARTS HERE -->
+                <div id="gps-display" class="tab-pane fade">
+                    <h4 class="text-center">GPS</h4>
+                    
+                    <!-- Table containing GPS data -->
+                    <table class="col-xs-12 table-striped table-condensed">
+                        <tr>
+                            <td class="col-xs-4 text-center thick">Item</td>
+                            <td class="col-xs-4 text-center thick">Value</td>
+                            <td class="col-xs-4 text-center thick">Unit</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Latitude</td>
+                            <td class="col-xs-4 text-center" id="gps-latitude">Value</td>
+                            <td class="col-xs-4 text-center">°</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Longitude</td>
+                            <td class="col-xs-4 text-center" id="gps-longitude">Value</td>
+                            <td class="col-xs-4 text-center">°</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Accuracy</td>
+                            <td class="col-xs-4 text-center" id="gps-accuracy">Value</td>
+                            <td class="col-xs-4 text-center">m</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Altitude</td>
+                            <td class="col-xs-4 text-center" id="gps-altitude">Value</td>
+                            <td class="col-xs-4 text-center">m</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Alt-Accuracy</td>
+                            <td class="col-xs-4 text-center" id="gps-alt-accuracy">Value</td>
+                            <td class="col-xs-4 text-center">m</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Speed</td>
+                            <td class="col-xs-4 text-center" id="gps-speed">Value</td>
+                            <td class="col-xs-4 text-center">m/s</td>
+                        </tr>
+                        <tr>
+                            <td class="col-xs-4 text-left">Counter</td>
+                            <td class="col-xs-4 text-center" id="gps-counter">Value</td>
+                            <td class="col-xs-4 text-center"></td>
+                        </tr>
+                    </table>
+                </div>
+                
+                <!-- MAP DISPLAY TAB STARTS HERE -->
+                <div id="map-display" class="tab-pane fade">
+                    <h4 class="text-center">Map</h4>
+                    <div id="map"></div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="js/libs/js/jquery-3.1.1.js"></script>
+        <script type="text/javascript" src="js/libs/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>
