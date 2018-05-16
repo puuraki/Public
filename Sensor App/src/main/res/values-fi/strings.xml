@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorTracking</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="gps_acc_label">Tarkkuus</string>
+    <string name="gps_acc_text">Odotetaan...</string>
+    <string name="gps_alt_label">Korkeus</string>
+    <string name="gps_alt_text">Odotetaan...</string>
+    <string name="gps_cnt_label">Laskuri</string>
+    <string name="gps_cnt_text">0</string>
+    <string name="gps_lat_label">Leveyspiiri</string>
+    <string name="gps_lat_text">Odotetaan...</string>
+    <string name="gps_lon_label">Pituuspiiri</string>
+    <string name="gps_lon_text">Odotetaan...</string>
+    <string name="gps_section_label_text">GPS seuranta</string>
+    <string name="acc_movX_label">X -kiihtyvyys</string>
+    <string name="acc_movX_text">Odotetaan...</string>
+    <string name="acc_movY_text">Odotetaan...</string>
+    <string name="acc_movY_label">Y -kiihtyvyys</string>
+    <string name="acc_section_label_text">Kiihtyvyysanturin seuranta</string>
+    <string name="acc_movZ_label">Z -kiihtyvyys</string>
+    <string name="acc_movZ_text">Odotetaan...</string>
+    <string name="action_about">Tietoa</string>
+    <string name="btn_back_text">Takaisin</string>
+    <string name="acc_cnt_label">Laskuri</string>
+    <string name="about_dev_name">Nimi</string>
+    <string name="about_dev_label">Kehittäjä</string>
+    <string name="about_info_text">Tämä ohjelma on kehitetty osana \"Programming Mobile Smart Devices\" -kurssia Lahden ammattikorkeakoulussa</string>
+    <string name="about_info_label">Info</string>
+    <string name="main_manual_label">Ohjeet</string>
+    <string name="main_manual_text1">Pyyhkäise vasemmalle päästäksesi GPS seurantaan</string>
+    <string name="main_manual_text2">Pyyhkäise vasemmalle kaksi kertaa päästäksesi kiihtyvyysanturin seurantaan</string>
+    <string name="main_manual_text3">Lisää tietoa ohjelmasta löytyy Tietoa -linkin kautta oikean yläkulman valikosta</string>
+    <string name="acc_cnt_text">0</string>
+</resources>
